@@ -53,6 +53,18 @@ export default function TAs_info(){
                     </div>
                 </div>
             </div>
+<div class="column">
+                <div class="card">
+                    <img src={nonephoto} alt="Hassan Jouda" />
+                    <div class="container">
+                        <h2>الهكر</h2>
+                        {/* <p class="title">Designer</p> */}
+                        {/* <p>Some text that describes me lorem ipsum ipsum lorem.</p> */}
+                        {/* <p>example@example.com</p> */}
+                        <p><a href="هكر.com"> <button class="button">Contact</button> </a> </p>
+                    </div>
+                </div>
+            </div>
             <div class="column">
                 <div class="card">
                     <img src={zayanphoto} alt="Zayan Hassan" />
